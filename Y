@@ -1,0 +1,4 @@
+{ 
+"currencyCode" : "", 
+"transactionId" : "836BD08B-E745-4489-9C5A-E79FA2" 
+}
